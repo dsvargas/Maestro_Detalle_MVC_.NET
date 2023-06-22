@@ -44,7 +44,8 @@ Si deseas contribuir a este proyecto, puedes realizar los siguientes pasos:
 Recursos adicionales
 
     Documentación oficial de ASP.NET MVC
-    Tutorial de MVC en .NET
+    Tutorial de MVC en .NET 
+https://youtu.be/hukosenzcW0?list=PLx2nia7-PgoDBpKthrdehLO8j76pnHoBm 
 
 Licencia
 
